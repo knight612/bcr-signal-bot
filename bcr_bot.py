@@ -15,7 +15,7 @@ from datetime import datetime
 from collections import defaultdict
 
 # ── CONFIG ─────────────────────────────────────────────
-DERIV_APP_ID     = "33FPov6QThh4POGmX1AaV"
+DERIV_APP_ID     = "1089"
 TELEGRAM_TOKEN   = "8932997378:AAFpoh1u65zGRCIZHqp1BqFrjltc5b-X6Co"
 TELEGRAM_CHAT_ID = "6292588974"
 WS_URL           = f"wss://ws.binaryws.com/websockets/v3?app_id={DERIV_APP_ID}"
